@@ -11,7 +11,7 @@ Hence, all units and technical meaning can be referenced from the features_info.
 The main difference is that the values now represent an average of the many readings made for each of these measurements.
 Each of the measurements' average is recorded for each activity and each subject.
 
-*"Average tBodyAcc-mean()-X" 
+* "Average tBodyAcc-mean()-X" 
 *"Average tBodyAcc-mean()-Y" 
 *"Average tBodyAcc-mean()-Z" 
 *"Average tBodyAcc-std()-X" 
