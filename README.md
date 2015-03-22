@@ -20,7 +20,8 @@ When executed, the function performs the following actions on the original data 
 * Splits the overall data into a list of data.frames, grouped by subject and activity
 * Computes the mean of each measurement for each subject and each activity, and writes it to a new data.frame
 * Updates variable names to indicate they are now averages, and convert activity codes to names 
-* Write the new tidy data to output file
+* Write the new tidy data to output file 
+
 Please refer to code itself, and comments within the code, for more details.
 
 ## Other matters
